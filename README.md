@@ -1,41 +1,42 @@
 # Hi there, I'm lonestill 👋
 
-[![Follow on GitHub](https://img.shields.io/github/followers/lonestill?label=Follow&style=social)](https://github.com/lonestill)
+<p align="left">
+  <a href="https://github.com/lonestill">
+    <img src="https://img.shields.io/github/followers/lonestill?label=Follow&style=social" />
+  </a>
+</p>
 
 A curious builder and problem-solver who ships thoughtful, reliable software. I focus on crafting scalable systems, clean developer experiences, and high-impact open-source tools.
 
 ---
 
-## 🛠️ Top Skills
-- Programming: JavaScript/TypeScript, Python, Go (adjust as needed)
-- Frameworks & Tools: React, Node.js, Express, Docker, Kubernetes
-- Cloud & Infra: AWS, Terraform, CI/CD
-- Others: Testing, Observability, System Design, API Design
+### 🛠️ Tech Stack
+
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,ts,py,go,react,nodejs,express,docker,kubernetes,aws,terraform,git,linux,cs" />
+  </a>
+</p>
 
 ---
 
-## ⭐ Featured Projects
+### 📈 GitHub Ecosystem
 
+<p align="center">
+  <img align="left" src="https://github-readme-stats-lonestill.vercel.app/api?username=lonestill&show_icons=true&theme=react&rank_icon=github&display_format=vertical" alt="lonestill's GitHub stats" height="192px" />
+  
+  <img align="center" src="https://github-readme-stats-lonestill.vercel.app/api/top-langs/?username=lonestill&layout=compact&theme=react&hide_langs_below=1" alt="Top Languages" height="192px" />
+</p>
+---
 
-- **[novashell](https://github.com/lonestill/novashell)** 
-- **[codemind](https://github.com/lonestill/codemind)** 
-- **[pipipupucheck](https://github.com/lonestill/pipipupucheck)** 
+### ⭐ Featured Projects
+
+- **[novashell](https://github.com/lonestill/novashell)** — Advanced shell configuration and tools.
+- **[codemind](https://github.com/lonestill/codemind)** — Intelligent code analysis and helpers.
+- **[pipipupucheck](https://github.com/lonestill/pipipupucheck)** — Utility for rapid validation and testing.
 
 ---
 
-## 📈 GitHub Stats
-
-<p float="left" align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lonestill&show_icons=true&theme=tokyonight" alt="lonestill's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lonestill&layout=compact&theme=tokyonight" alt="Top Languages" />
+<p align="center">
+  <i>Thanks for stopping by — explore my repos and feel free to open an issue or a discussion!</i>
 </p>
-
-
-<p float="left" align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lonestill&theme=tokyonight" alt="GitHub Streak" />
-  <img src="https://github-profile-trophy.vercel.app/?username=lonestill&theme=tokyonight" alt="Trophies" />
-</p>
-
-
-
-Thanks for stopping by — explore my repos and feel free to open an issue or a discussion!
