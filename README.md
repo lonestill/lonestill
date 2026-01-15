@@ -65,3 +65,4 @@
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=lonestill&label=Profile%20Views&color=0ea5e9&style=flat-square" alt="Profile Views" />
 </div>
+I very rarely update the readme, see all current projects in the profile.. Please be careful.
