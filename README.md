@@ -27,7 +27,11 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lonestill&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+  <img src="https://github-readme-stats-lonestill.vercel.app/api/activity-graph?username=lonestill&theme=tokyonight&hide_border=true" alt="Activity Graph" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats-lonestill.vercel.app/api/streak?username=lonestill&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </div>
 
 ---
