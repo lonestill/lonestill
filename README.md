@@ -3,7 +3,7 @@
   
   <h1>lonestill</h1>
   
-  <p><i>Code never lies.</i></p>
+  <p><i>Building open-source desktop tools for the messy parts.</i></p>
   
   <p>
     <a href="https://github.com/lonestill">
@@ -12,6 +12,25 @@
     <a href="mailto:admin@lonestill.uk">
       <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
     </a>
+  </p>
+</div>
+
+---
+
+## ⛏️ Currently building
+
+<div align="center">
+  <a href="https://lonestill.github.io/">
+    <img src="https://lonestill.github.io/social-card.png" width="760" alt="Onyx Launcher — open-source Minecraft launcher for Windows and Linux"/>
+  </a>
+  <p>
+    <b>Onyx Launcher</b> keeps Minecraft instances isolated and combines Modrinth content, automatic Java, crash diagnostics, performance recording, world snapshots, and safe backups in one desktop app.
+  </p>
+  <p>
+    <a href="https://lonestill.github.io/"><b>Website</b></a> ·
+    <a href="https://github.com/lonestill/onyx-launcher"><b>Source</b></a> ·
+    <a href="https://github.com/lonestill/onyx-launcher/releases/latest"><b>Download</b></a> ·
+    <a href="https://github.com/lonestill/onyx-launcher/issues?q=is%3Aissue%20is%3Aopen%20label%3A%22good%20first%20issue%22"><b>Good first issues</b></a>
   </p>
 </div>
 
@@ -57,6 +76,7 @@
 
 | Project | Description |
 |:---:|:---|
+| [**onyx-launcher**](https://github.com/lonestill/onyx-launcher) | Open-source Minecraft launcher with isolated instances, Modrinth, managed Java, diagnostics, and safe backups |
 | [**novashell**](https://github.com/lonestill/novashell) | A custom cross-platform CLI shell/console |
 | [**github-readme-stats**](https://github.com/lonestill/github-readme-stats) | Dynamic GitHub stats cards generator |
 
