@@ -51,7 +51,7 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats-fast.vercel.app/api?username=lonestill&show_icons=true&theme=tokyonight&hide_border=true&count_private=false&include_all_commits=true" alt="GitHub Stats"/>
+  <img height="180em" src="https://github-readme-stats-fast.vercel.app/api?username=lonestill&show_icons=true&theme=tokyonight&hide_border=true&count_private=false&include_all_commits=false" alt="GitHub Stats"/>
   <img height="180em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=lonestill&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages"/>
 </div>
 
