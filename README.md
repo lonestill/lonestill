@@ -20,9 +20,6 @@
 ## ⛏️ Currently Building
 
 <div align="center">
-  <a href="https://github.com/lonestill/listenfold">
-    <img src="https://raw.githubusercontent.com/lonestill/listenfold/main/landing/public/screenshots/desktop-player.png" width="760" alt="Listenfold — Desktop music player"/>
-  </a>
   <p>
     <b><a href="https://github.com/lonestill/listenfold">Listenfold</a></b> — Modern open-source desktop music player unifying YouTube Music and Yandex Music with parametric equalizer, synced lyrics, offline downloads, and gapless audio.
   </p>
@@ -54,7 +51,7 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats-fast.vercel.app/api?username=lonestill&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
+  <img height="180em" src="https://github-readme-stats-fast.vercel.app/api?username=lonestill&show_icons=true&theme=tokyonight&hide_border=true&count_private=false&include_all_commits=true" alt="GitHub Stats"/>
   <img height="180em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=lonestill&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages"/>
 </div>
 
