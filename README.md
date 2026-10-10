@@ -9,6 +9,9 @@
     <a href="https://github.com/lonestill">
       <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
     </a>
+    <a href="https://oss-hub-nu.vercel.app/users/lonestill">
+      <img src="https://img.shields.io/badge/OSS_Hub-Verified_Dev-e5484d?style=flat-square" alt="OSS Hub"/>
+    </a>
     <a href="mailto:admin@lonestill.uk">
       <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
     </a>
@@ -51,6 +54,14 @@
 ## 📊 GitHub Stats
 
 <div align="center">
+  <a href="https://oss-hub-nu.vercel.app/users/lonestill">
+    <img src="https://oss-hub-nu.vercel.app/api/badge/lonestill" alt="OSS Hub Verified Dev" width="460"/>
+  </a>
+</div>
+
+<br/>
+
+<div align="center">
   <img height="180em" src="https://github-readme-stats-fast.vercel.app/api?username=lonestill&show_icons=true&theme=tokyonight&hide_border=true&count_private=false&include_all_commits=true" alt="GitHub Stats"/>
   <img height="180em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=lonestill&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages"/>
 </div>
@@ -83,6 +94,7 @@
 
 | Project | Description | Tech |
 |:---|:---|:---|
+| [**oss-hub**](https://github.com/lonestill/oss-hub) | Open-source ecosystem & talent marketplace for maintainers and contributors | `TypeScript` `Next.js` `Turso` |
 | [**listenfold**](https://github.com/lonestill/listenfold) | Modern desktop music player combining YouTube & Yandex Music with parametric EQ, offline playback, and lyrics | `JavaScript` `Electron` `Next.js` |
 | [**onyx-launcher**](https://github.com/lonestill/onyx-launcher) | Open-source Minecraft launcher with isolated instances, Modrinth, managed Java, and safe backups | `TypeScript` `Electron` |
 | [**novashell**](https://github.com/lonestill/novashell) | A custom cross-platform CLI shell and terminal environment | `TypeScript` `CLI` |
