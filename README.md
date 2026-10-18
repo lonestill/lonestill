@@ -1,13 +1,4 @@
-<div align="center">
-  
-  <p>
-   
-    <a href="https://oss-hub-nu.vercel.app/users/lonestill">
-      <img src="https://img.shields.io/badge/OSS_Hub-Verified_Dev-e5484d?style=flat-square" alt="OSS Hub"/>
-    </a>
-    
-  </p>
-</div>
+
 
 ---
 
