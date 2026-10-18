@@ -2,8 +2,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
 <div align="center">
   <a href="https://oss-hub-nu.vercel.app/users/lonestill">
     <img src="https://oss-hub-nu.vercel.app/api/badge/lonestill" alt="OSS Hub Verified Dev" width="460"/>
